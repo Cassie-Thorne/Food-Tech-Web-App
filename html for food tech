@@ -1,0 +1,11 @@
+html
+<head>
+ <title>St Luke's Food Technology</title> 
+ <link type= "text/css" rel="stlyesheet" href="style.css"/>
+</head>
+
+<body>
+  <h1> Heading here </h1>
+  <p> paragraph information </p>
+  
+ </body>
